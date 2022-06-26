@@ -4,6 +4,7 @@ public class Magie {
   // TODO Auto-generated method stub
     System.out.println("Topper boy");
     System.out.println("gym boy");
+System.out.println("freak");
 
 
 
